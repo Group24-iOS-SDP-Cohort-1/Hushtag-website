@@ -14,8 +14,8 @@ export default function Home() {
               <span>AI-Powered iOS App</span>
             </div>
             <h1>
-              Turn Ideas Into <br />
-              <span className="gradient-text">Viral Content</span>
+              Find Your Next <br />
+              <span className="gradient-text">Viral Idea</span>
             </h1>
             <p>
               Hushtag is your premium iOS content creation companion. Brainstorm concepts, write high-engaging scripts, auto-generate tags, and manage your production pipeline from one unified space.
@@ -59,23 +59,23 @@ export default function Home() {
         <div className="container">
           <div className="features-header">
             <span className="section-label">Features</span>
-            <h2 className="section-title">Designed for Digital Creators</h2>
+            <h2 className="section-title">Designed for Content Creators</h2>
             <p className="section-desc">
-              Hushtag combines native Apple Intelligence, cloud AI edge functions, and an intuitive UI to elevate your content workflow.
+              Hushtag helps creators go from idea to content by combining AI-powered ideation, script generation, and content creation tools in one seamless experience.
             </p>
           </div>
           
           <div className="features-grid">
             <div className="feature-card">
               <div className="feature-icon">💡</div>
-              <h3>Idea Management</h3>
-              <p>Discover, save, and manage content ideas. Track average views, like ratios, and performance analytics to target high-potential concepts.</p>
+              <h3>Idea Generation</h3>
+              <p>Discover viral idea related to your niche and by using keywords. Track average views, like ratios, and performance analytics to target high-potential concepts.</p>
             </div>
             
             <div className="feature-card">
               <div className="feature-icon">✍️</div>
               <h3>AI Script Generation</h3>
-              <p>Create complete short-form video scripts, optimized titles, and descriptions tailored specifically for platforms like YouTube and Instagram.</p>
+              <p>Create complete  video scripts, optimized titles, and descriptions tailored specifically for platforms like YouTube, Instagram, Twitter.</p>
             </div>
 
             <div className="feature-card">
@@ -87,19 +87,19 @@ export default function Home() {
             <div className="feature-card">
               <div className="feature-icon">🗂️</div>
               <h3>Organization & Filtering</h3>
-              <p>Filter by custom tags (like brand deals), perform real-time search, and use AI to expand, polish, or refine script drafts.</p>
+              <p>Manage and maintain all your brand deals in order to track efficiently.</p>
             </div>
 
             <div className="feature-card">
               <div className="feature-icon">⚡</div>
-              <h3>Apple Intelligence</h3>
-              <p>Leverages robust on-device AI capabilities for ultra-fast, local content refinement, metadata creation, and responsive prompts.</p>
+              <h3>Auto-Scheduling</h3>
+              <p>Scheule your posts on youtube.</p>
             </div>
 
             <div className="feature-card">
               <div className="feature-icon">☁️</div>
-              <h3>Supabase Backend</h3>
-              <p>Your ideas, scripts, and drafts are securely stored, synced in real-time across iOS devices, and accessible instantaneously.</p>
+              <h3>Analytics</h3>
+              <p>Get detailed report regarding your channel analytics and get ideas tailored to it.</p>
             </div>
           </div>
         </div>
@@ -178,23 +178,18 @@ export default function Home() {
           <div className="steps-grid">
             <div className="step-card">
               <div className="step-num">1</div>
-              <h3>Choose Idea</h3>
-              <p>Select a trending concept or record a new one inside your personal idea vault.</p>
+              <h3>Discover and choose idea using keywords</h3>
+              <p>Select a trending concept and start building on it.</p>
             </div>
             <div className="step-card">
               <div className="step-num">2</div>
               <h3>Start Chat</h3>
-              <p>Launch an interactive, context-aware session with our creator-trained AI.</p>
+              <p>Interact with chatbot and get idea and platform specific scripts, optimised titles and descriptions.</p>
             </div>
             <div className="step-card">
               <div className="step-num">3</div>
-              <h3>Generate Script</h3>
-              <p>Collaboratively iterate on the video flow, hooking sentences, and style guidelines.</p>
-            </div>
-            <div className="step-card">
-              <div className="step-num">4</div>
-              <h3>Tag Content</h3>
-              <p>Mark AI response bubbles to classify them as Script, Title, or Description.</p>
+              <h3>Scheule</h3>
+              <p>After working on the idea schedule the post on youtube.</p>
             </div>
           </div>
         </div>

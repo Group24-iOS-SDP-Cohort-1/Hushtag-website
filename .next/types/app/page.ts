@@ -1,4 +1,4 @@
-// File: /Users/sdc-user/Documents/june5/Hushtag-website/app/page.js
+// File: D:\hushtag\Hushtag-website\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
